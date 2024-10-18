@@ -24,8 +24,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the list of item.
-Developed by: VISHAL S
-Registeration Number : 212222040181
+Developed by: KISHORE M
+Registeration Number : 212222040079
 */
 ```
 
